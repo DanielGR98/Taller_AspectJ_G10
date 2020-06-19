@@ -1,3 +1,4 @@
 Transaccion exitosaThu Jun 18 13:24:47 ECT 2020
 Transaccion exitosaThu Jun 18 13:24:47 ECT 2020
 Dinero RetiradoThu Jun 18 13:24:47 ECT 2020
+Dinero RetiradoThu Jun 18 21:51:39 COT 2020
